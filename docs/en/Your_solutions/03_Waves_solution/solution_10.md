@@ -1,4 +1,4 @@
-### Question 10: Animation of Wave Sources (Ultra-Detailed Breakdown)
+### Question 10: Animation of Wave Sources
 
 **1. Physical Interpretation of the Equation**
 
