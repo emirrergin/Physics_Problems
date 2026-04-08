@@ -1,4 +1,4 @@
-### Question 4: Phase Difference (Detailed Breakdown)
+### Question 4: Phase Difference 
 
 **1. Identify Given Variables:**
 * Path difference (distance between two points, $\Delta x$): $\frac{\lambda}{3}$
