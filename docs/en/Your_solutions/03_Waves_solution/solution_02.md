@@ -1,4 +1,4 @@
-### Question 2: String Harmonics (Detailed Breakdown)
+### Question 2: String Harmonics 
 
 **1. Identify Given Variables:**
 * Length of the string ($L$): $64 \text{ cm}$
