@@ -1,4 +1,4 @@
-### Question 6: Wave Equation (Detailed Breakdown)
+### Question 6: Wave Equation
 
 **1. Identify the Standard Wave Equation:**
 The general form of a traveling wave equation is:
