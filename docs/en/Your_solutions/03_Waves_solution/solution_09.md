@@ -1,4 +1,4 @@
-### Question 9: Damped Harmonic Oscillator (Ultra-Detailed Breakdown)
+### Question 9: Damped Harmonic Oscillator
 
 **1. General Theoretical Analysis**
 
