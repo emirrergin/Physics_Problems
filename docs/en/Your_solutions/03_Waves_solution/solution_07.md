@@ -1,4 +1,4 @@
-### Question 7: Standing Wave Modes (Ultra-Detailed Breakdown)
+### Question 7: Standing Wave Modes 
 
 **1. Identification of Given Physical Parameters:**
 * **String Length ($L$):** The total physical distance between the two fixed ends is given as $80 \text{ cm}$.
