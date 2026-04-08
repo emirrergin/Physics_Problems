@@ -1,4 +1,4 @@
-### Question 11: Two-Slit Interference (Ultra-Detailed Breakdown)
+### Question 11: Two-Slit Interference
 
 **1. Theoretical Framework: Young's Double Slit Experiment**
 In this simulation, we treat the two slits as coherent point sources located at $\vec{r}_1$ and $\vec{r}_2$. Coherence implies that the sources have a constant phase relationship and the same frequency.
