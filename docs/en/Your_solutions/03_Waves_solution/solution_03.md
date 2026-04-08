@@ -1,4 +1,4 @@
-### Question 3: Superposition Principle (Detailed Breakdown)
+### Question 3: Superposition Principle
 
 **1. Identify Given Wave Equations:**
 * Wave 1 (traveling to the right): $y_1(x, t) = A \sin(kx - \omega t)$
