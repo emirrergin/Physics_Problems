@@ -1,4 +1,4 @@
-### Question 1: Wave Properties (Detailed Breakdown)
+### Question 1: Wave Properties
 
 **1. Identify Given Variables:**
 * Frequency of the source ($f$): $440 \text{ Hz}$ (This means $440$ cycles per second)
