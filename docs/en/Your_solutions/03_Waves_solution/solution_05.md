@@ -1,4 +1,4 @@
-### Question 5: Echo Ranging (Detailed Breakdown)
+### Question 5: Echo Ranging
 
 **1. Identify Given Variables:**
 * Total time for echo ($t_{total}$): $1 \text{ s}$
