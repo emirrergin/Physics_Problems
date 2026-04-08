@@ -1,4 +1,4 @@
-### Question 8: Traveling Wave Functions (Ultra-Detailed Breakdown)
+### Question 8: Traveling Wave Functions 
 
 **1. Theoretical Framework: The Linear Wave Equation**
 For any function $y(x, t)$ to describe a valid traveling wave, it must satisfy the second-order partial differential equation known as the **Wave Equation**:
