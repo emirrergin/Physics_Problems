@@ -1,7 +1,7 @@
 # ⚡ Physics Basics: Instantaneous Current Analysis
 
 ## 1. Problem Statement
-Based on **image_1ca792.png**, the total charge ($Q$) flowing through a wire is expressed as a function of time ($t$):
+the total charge ($Q$) flowing through a wire is expressed as a function of time ($t$):
 $$Q(t) = 5t^2 + 5$$
 
 **Task:** Calculate the instantaneous current ($I$) at exactly **$t = 3$ seconds**.

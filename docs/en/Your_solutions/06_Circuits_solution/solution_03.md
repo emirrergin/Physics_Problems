@@ -1,7 +1,7 @@
 # 🧩 Physics Basics: Mixed Circuit Analysis
 
 ## 1. Problem Statement
-Based on **image_1cbe16.png**, we need to calculate the total equivalent resistance ($R_{eq}$) of the given circuit. 
+we need to calculate the total equivalent resistance ($R_{eq}$) of the given circuit. 
 
 **Given:** 
 * All resistors in the circuit have a resistance of **$5 \, \Omega$**.

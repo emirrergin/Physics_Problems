@@ -1,7 +1,7 @@
 # ⚡ Physics Basics: Ammeter Current Analysis
 
 ## 1. Problem Statement
-Based on the circuit provided in **image_1cb5bb.png**, we need to calculate the current flowing through the ammeter located in the middle branch.
+we need to calculate the current flowing through the ammeter located in the middle branch.
 
 **Circuit Parameters:**
 *   **Top Branch:** Source $\mathcal{E}_2 = 4.5 \, \text{V}$ and internal resistance $r_w = 1 \, \Omega$.

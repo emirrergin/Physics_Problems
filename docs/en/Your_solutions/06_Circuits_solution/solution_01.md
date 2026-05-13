@@ -1,7 +1,7 @@
 # 🔌 Physics Basics: Series and Parallel Circuits
 
 ## 1. Problem Statement
-Based on **image_1cc59c.png**, we have three resistors and a power source:
+we have three resistors and a power source:
 * **Resistors:** $R_1 = 15 \, \Omega$, $R_2 = 30 \, \Omega$, and $R_3 = 50 \, \Omega$
 * **Battery Voltage ($V$):** $12 \, \text{V}$
 

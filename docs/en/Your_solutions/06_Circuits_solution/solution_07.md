@@ -1,7 +1,7 @@
 # 🔋 Physics Basics: Capacitors in Parallel
 
 ## 1. Problem Statement
-Based on **image_1cae7a.png**, we have two capacitors connected in a parallel configuration:
+we have two capacitors connected in a parallel configuration:
 *   **Capacitor 1 ($C_1$):** $4 \, \mu\text{F}$
 *   **Capacitor 2 ($C_2$):** $6 \, \mu\text{F}$
 *   **Battery Voltage ($V$):** $10 \, \text{V}$

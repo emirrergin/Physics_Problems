@@ -1,7 +1,7 @@
 # ⚡ Physics Basics: AC Voltage Equation Analysis
 
 ## 1. Problem Statement
-Based on **image_1cab19.png**, the current in an AC circuit is given by the equation:
+the current in an AC circuit is given by the equation:
 $$I(t) = 2 \sin(120\pi t)$$
 The circuit consists of a single resistor with a resistance of **$50 \, \Omega$**. We need to determine the mathematical equation for the voltage $V(t)$ across this resistor.
 

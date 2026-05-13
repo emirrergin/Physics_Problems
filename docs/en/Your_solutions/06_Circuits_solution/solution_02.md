@@ -1,7 +1,7 @@
 # 🧩 Physics Basics: Combinations of Three Resistors
 
 ## 1. Problem Statement
-Based on **image_1cc1f8.png**, we have a supply of exactly **three 1 $\Omega$ resistors**. The task is to identify and list all unique equivalent resistance ($R_{eq}$) values possible by combining all three of them.
+we have a supply of exactly **three 1 $\Omega$ resistors**. The task is to identify and list all unique equivalent resistance ($R_{eq}$) values possible by combining all three of them.
 
 ---
 

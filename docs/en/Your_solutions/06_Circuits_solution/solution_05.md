@@ -1,7 +1,7 @@
 # ⚡ Physics Basics: Kirchhoff's Laws (Multi-Loop Circuit)
 
 ## 1. Problem Statement
-Based on **image_1cb980.png**, we need to find the currents $I_1, I_2$, and $I_3$ in the given two-loop circuit.
+we need to find the currents $I_1, I_2$, and $I_3$ in the given two-loop circuit.
 *   **Left Branch:** Source $\mathcal{E}_1 = 4.5 \, \text{V}$ and internal resistance $r_w = 1 \, \Omega$.
 *   **Top Branch (Left Loop):** Resistor $R_1 = 20 \, \Omega$ and Ammeter $A$.
 *   **Shared Middle Branch:** Resistor $R_2 = 10 \, \Omega$.
